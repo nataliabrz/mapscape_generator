@@ -18,6 +18,7 @@ Run locally on your machine
 3. An image of a phylogenetic tree (e.g. signature-annotated) and optionally a second tree (e.g. with and without tumours plotted). The tree file is expected to be in the same directory as the H&E image, be .png formatted, and be named:
     - first 7 characters "_SigFit_annotated.png"
     - PD51606_SigFit_annotated.png
+    
     In this case this is the tree without the signature annotation.
 
 ![sig_tree](PD51606b/PD51606_SigFit_annotated.png "Signature Tree")
