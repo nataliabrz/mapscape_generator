@@ -7,7 +7,7 @@ Run locally on your machine
 
 ## Requirements
  1. .png formmated static image of histology section microbiopsier were generated from 
-![PD39939](example/PD39939_combo_img.png "H&E Image")
+![PD51606](PD51606/PD51606b_img.png "H&E Image")
 
 2. table indicating x/y pixel position of each microbiopsy
     - I generate these using photoshop determining the position of my cursor
