@@ -4,7 +4,7 @@ title: "mapscape: mapscape"
 authors:
   - family-names: "Smith"
     given-names: "M"
-date-released: "2024"
+date-released: "2024-01-01"
 version: "1.30.0"
 url: "https://www.bioconductor.org/packages/devel/bioc/vignettes/mapscape/inst/doc/mapscape_vignette.html"
 repository-code: "https://www.bioconductor.org/packages/devel/bioc/vignettes/mapscape"
