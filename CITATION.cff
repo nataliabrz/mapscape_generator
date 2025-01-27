@@ -7,11 +7,11 @@ authors:
 date-released: "2024-01-01"
 version: "1.30.0"
 url: "https://www.bioconductor.org/packages/devel/bioc/vignettes/mapscape/inst/doc/mapscape_vignette.html"
-repository-code: "https://www.bioconductor.org/packages/devel/bioc/vignettes/mapscape"
+repository-code: "https://www.bioconductor.org/packages/release/bioc/html/mapscape.html"
 license: "GPL-3.0"
 abstract: |
   This repository includes code adapted from the `mapscape` package, originally authored
   by Smith M (2024). For more details on the original package, visit the Bioconductor page:
-  https://www.bioconductor.org/packages/devel/bioc/vignettes/mapscape/inst/doc/mapscape_vignette.html.
+  https://www.bioconductor.org/packages/release/bioc/html/mapscape.html.
 
   The `mapscape` package is licensed under the GNU General Public License v3.0 (GPL-3.0).
