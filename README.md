@@ -15,18 +15,16 @@ Run locally on your machine
 
 ![location_tbl](example_images/location_table_img.png "Location Table") 
 
-3. Signature-annotated tree and optionally a second tree (for example with and without tumours plotted). The signature tree file is expected to be in the same directory as the H&E image, be .png formatted, and be named:
+3. An image of a phylogenetic tree (e.g. signature-annotated) and optionally a second tree (e.g. with and without tumours plotted). The tree file is expected to be in the same directory as the H&E image, be .png formatted, and be named:
     - first 7 characters "_SigFit_annotated.png"
     - PD51606_SigFit_annotated.png
+    In this case this is the tree without the signature annotation.
 
 ![sig_tree](PD51606b/PD51606_SigFit_annotated.png "Signature Tree")
 
 If a second file is given, it is expected to be:
 - first 7 characters "_static_tree.png"
 - PD51606_static_tree.png
-In this case this is the tree without the signature annotation.
-
-![static_tree](PD51606b/PD51606_static_tree.png "Static Tree")
 
 The first tree will be the one plotted on the interactive plot
 
