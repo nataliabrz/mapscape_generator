@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the original `mapscape` package as follows."
+title: "mapscape: mapscape"
+authors:
+  - family-names: "Smith"
+    given-names: "M"
+date-released: "2024"
+version: "1.30.0"
+url: "https://www.bioconductor.org/packages/devel/bioc/vignettes/mapscape/inst/doc/mapscape_vignette.html"
+repository-code: "https://www.bioconductor.org/packages/devel/bioc/vignettes/mapscape"
+license: "GPL-3.0"
+abstract: |
+  This repository includes code adapted from the `mapscape` package, originally authored
+  by Smith M (2024). For more details on the original package, visit the Bioconductor page:
+  https://www.bioconductor.org/packages/devel/bioc/vignettes/mapscape/inst/doc/mapscape_vignette.html.
+
+  The `mapscape` package is licensed under the GNU General Public License v3.0 (GPL-3.0).
