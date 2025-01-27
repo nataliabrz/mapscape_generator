@@ -7,7 +7,7 @@ Run locally on your machine
 
 ## Requirements
  1. .png formmated static image of histology section microbiopsier were generated from 
-![PD51606](PD51606/PD51606b_img.png "H&E Image")
+![PD51606](PD51606b/PD51606b_img.png "H&E Image")
 
 2. table indicating x/y pixel position of each microbiopsy
     - I generate these using photoshop determining the position of my cursor
@@ -17,9 +17,9 @@ Run locally on your machine
 
 3. Signature-annotated tree and optionally a second tree (for example with and without tumours plotted). The signature tree file is expected to be in the same directory as the H&E image, be .png formatted, and be named:
     - first 7 characters "_SigFit_annotated.png"
-    - PD39939_SigFit_annotated.png
+    - PD51606_SigFit_annotated.png
 
-![sig_tree](example/PD39939_SigFit_annotated.png "Signature Tree")
+![sig_tree](example/PD51606_SigFit_annotated.png "Signature Tree")
 
 If a second file is given, it is expected to be:
 - first 7 characters "_static_tree.png"
