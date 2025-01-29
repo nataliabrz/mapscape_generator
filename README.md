@@ -1,6 +1,6 @@
-# Generation of interactive mapscape plots from NDP clustering/trees
+# Generation of interactive mapscape plots from phylogenetic trees reconstructed from NDP-clustered mutations
 
-## This branch is for generating signature annotated interactive [plots](PD51606b/PD51606b_mapscape_241205.html)
+## This branch is for generating annotated interactive [plots](PD51606b/PD51606b_mapscape_241205.html)
 
 ## Process
 Run locally on your machine
